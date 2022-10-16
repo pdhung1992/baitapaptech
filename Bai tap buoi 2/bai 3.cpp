@@ -1,5 +1,8 @@
 #include <stdio.h>
 int main(){
+	
+	printf("nhap vao 2 so a, b:\n");
+	
 	int a;
 	int b;
 	
