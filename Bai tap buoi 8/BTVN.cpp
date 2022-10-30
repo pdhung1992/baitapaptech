@@ -57,7 +57,7 @@ int main()
 	for(int i=0; i<n; i++){
 		scanf("%d", &ary[i]);
 	}
-	//1+2
+	//1.
 	int count1=0;
 	for(int i=0; i<n; i++){
 		if(ary[i]%2==1){
